@@ -1,0 +1,1 @@
+Images of any individual are placed in seperate folders
